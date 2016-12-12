@@ -83,12 +83,10 @@ def home(request):
     return HttpResponse(t.render(c))
 
 
-
 def faq(request):
 
     t = loader.get_template('home/faq.html')
     c = RequestContext(request, {
-
     })
     return HttpResponse(t.render(c))
 

@@ -18,20 +18,20 @@
     <![endif]-->
 
     {% block styles %}
-        <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" rel="stylesheet">
-        <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
-        <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
-        <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+        <link href="/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/static/startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
+{#        <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">#}
+{#        <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">#}
 
         <!-- Custom CSS -->
-        <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
+{#        <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">#}
 
         <!-- Image Gallery -->
 {#        <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">#}
 {#        <link rel="stylesheet" href="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css">#}
 
         <!-- Custom Fonts -->
-        <link href="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 
@@ -101,25 +101,27 @@
 <!--js -->
 {% block scripts %}
     <!-- jQuery -->
-    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.js"></script>
+{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.js"></script>#}
+    <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/bootstrap.min.js"></script>
+{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/bootstrap.min.js"></script>#}
+    <script src="/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js"></script>
-    <script src="{{ STATIC_URL }}startbootstrap-agency-1.0.6/js/agency.js"></script>
-    <script src="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
+{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js"></script>#}
+{#    <script src="{{ STATIC_URL }}startbootstrap-agency-1.0.6/js/agency.js"></script>#}
+    <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
     <!-- Custom Theme JavaScript -->
-    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/grayscale.js"></script>
+{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/grayscale.js"></script>#}
 
     <!-- Image Gallery -->
 {#        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>#}
 {#        <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>#}
 {#        <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/js/bootstrap-image-gallery.min.css"></script>#}
 
-    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css"></script>
-    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/js/bootstrap-image-gallery.min.js"></script>
+{#    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css"></script>#}
+{#    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/js/bootstrap-image-gallery.min.js"></script>#}
 
 {% endblock scripts %}
 </body>

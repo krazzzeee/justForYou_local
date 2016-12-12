@@ -13,19 +13,20 @@
 {#    <title>Just For You</title>#}
 
     <!-- Bootstrap Core CSS -->
-    <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" rel="stylesheet">
+{#removed the {{ STATIC_URL }} because it broke things in prod#}
+    <link href="/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- Custom CSS -->
-{#	<link href="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/css/grayscale.css" rel="stylesheet">#}
-{#	<link href="{{ STATIC_URL }}startbootstrap-agency-1.0.6/css/agency.css" rel="stylesheet">#}
-    <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
+	<link href="/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" rel="stylesheet">
+	<link href="/static/startbootstrap-agency-1.0.6/css/agency.css" rel="stylesheet">
+    <link href="/static/startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
 
     <!-- Image Gallery -->
-    <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
-    <link rel="stylesheet" href="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css">
+{#    <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">#}
+{#    <link rel="stylesheet" href="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css">#}
 
     <!-- Custom Fonts -->
-    <link href="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+{#    <link href="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">#}
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
@@ -169,7 +170,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<h1 class="brand-heading">Just For You </h1>
-						<p class="intro-text">Childrens Center</p>
+						<p class="intro-text">Children's Center</p>
 						<a href="#about" class="btn btn-circle page-scroll">
 							<i class="fa fa-angle-double-down animated"></i>
 						</a>
@@ -190,21 +191,21 @@
                     <div id="carousel-example-generic" class="carousel slide">
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">
-                            <li data-target="#carousel-example-generic" data-slide-to="0"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1" ></li>
                             <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item ">
-                                <img class="img-responsive img-full" src="{{ STATIC_URL }}images/starwarz.jpg" alt="">
+                                <img class="img-responsive img-full" src="{{ STATIC_URL }}images/new_pics/sun.JPG" alt="">
                             </div>
                             <div class="item active">
                                 <img class="img-responsive img-full" src="{{ STATIC_URL }}images/just_4_you_poster.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="{{ STATIC_URL }}images/shapeimage_2.png" alt="">
+                                <img class="img-responsive img-full" src="{{ STATIC_URL }}images/new_pics/art.JPG" alt="">
                             </div>
                         </div>
 
@@ -293,13 +294,25 @@
 <!-- Services Section -->
 <section id="services">
     <div class="container box">
+
         <div class="row ">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading" style="padding-bottom: 20px">Services</h2>
-{#                <h3 class="section-subheading text-muted">???? Something here ???</h3>#}
             </div>
         </div>
+
         <div class="row text-center ">
+
+            <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                            <a href="/static/jfy_pdf.pdf" target="_blank">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+                        </a>
+                    </span>
+                <h4 class="service-heading">Just For You Handbook</h4>
+            </div>
+
             <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <a href="{% url 'policies_procedures' %}">
@@ -308,28 +321,29 @@
                         </a>
                     </span>
                 <h4 class="service-heading">Policies & Procedures</h4>
-{#                <p class="text-muted">This is a description paragraph about Policies & Procedures. </p>#}
             </div>
+
             <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                        <a href="{% url 'image_gallery' %}">
+                        <a href="{% url 'faq' %}">
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa fa-question-circle fa-stack-1x fa-inverse"></i>
                         </a>
                     </span>
                 <h4 class="service-heading">FAQ</h4>
-{#                <p class="text-muted">This is a description paragraph about the Frequently Asked Questions</p>#}
             </div>
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <a href="{% url 'faq' %}">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-image fa-stack-1x fa-inverse"></i>
-                        </a>
-                    </span>
-                <h4 class="service-heading">Image Gallery</h4>
+
+{#            <div class="col-md-4">#}
+{#                    <span class="fa-stack fa-4x">#}
+{#                        <a href="{% url 'faq' %}">#}
+{#                            <i class="fa fa-circle fa-stack-2x text-primary"></i>#}
+{#                            <i class="fa fa-image fa-stack-1x fa-inverse"></i>#}
+{#                        </a>#}
+{#                    </span>#}
+{#                <h4 class="service-heading">Image Gallery</h4>#}
 {#                <p class="text-muted">This is a description paragraph about the Image Gallery.</p>#}
-            </div>
+{#            </div>#}
+
         </div>
     </div>
 </section>
@@ -486,8 +500,8 @@
 
 <!-- MODALS -->
 <!-- Modal -->
-<div id="missionStatementModal" class="modal fade" role="dialog">
-    <div class="modal-dialog">
+<div id="missionStatementModal" class="modal fade" >
+{#    <div class="modal-dialog">#}
 
         <!-- Mission Statement Modal -->
         <div class="modal-content">
@@ -513,7 +527,7 @@
             </div>
         </div>
 
-    </div>
+{#    </div>#}
 </div>
 
 
@@ -531,39 +545,39 @@
 {% endblock footer %}
 
 <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
-    <!-- The container for the modal slides -->
-    <div class="slides">TEST</div>
-    <!-- Controls for the borderless lightbox -->
-    <h3 class="title">This is the title</h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title"></h4>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                        <i class="glyphicon glyphicon-chevron-left"></i>
-                        Previous
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Next
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+{#<div id="blueimp-gallery" class="blueimp-gallery">#}
+{#    <!-- The container for the modal slides -->#}
+{#    <div class="slides">TEST</div>#}
+{#    <!-- Controls for the borderless lightbox -->#}
+{#    <h3 class="title">This is the title</h3>#}
+{#    <a class="prev">‹</a>#}
+{#    <a class="next">›</a>#}
+{#    <a class="close">×</a>#}
+{#    <a class="play-pause"></a>#}
+{#    <ol class="indicator"></ol>#}
+{#    <!-- The modal dialog, which will be used to wrap the lightbox content -->#}
+{#    <div class="modal fade">#}
+{#        <div class="modal-dialog">#}
+{#            <div class="modal-content">#}
+{#                <div class="modal-header">#}
+{#                    <button type="button" class="close" aria-hidden="true">&times;</button>#}
+{#                    <h4 class="modal-title"></h4>#}
+{#                </div>#}
+{#                <div class="modal-body next"></div>#}
+{#                <div class="modal-footer">#}
+{#                    <button type="button" class="btn btn-default pull-left prev">#}
+{#                        <i class="glyphicon glyphicon-chevron-left"></i>#}
+{#                        Previous#}
+{#                    </button>#}
+{#                    <button type="button" class="btn btn-primary next">#}
+{#                        Next#}
+{#                        <i class="glyphicon glyphicon-chevron-right"></i>#}
+{#                    </button>#}
+{#                </div>#}
+{#            </div>#}
+{#        </div>#}
+{#    </div>#}
+{#</div>#}
 
 {#<!-- jQuery -->#}
 {#<script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.js"></script>#}
@@ -595,6 +609,6 @@
     })
 </script>
 
-{#</body>#}
-{##}
-{#</html>#}
+</body>
+
+</html>

@@ -1,7 +1,537 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f01a45ba-8e62-4d96-8919-854dd5d488cb" name="Default" comment="" />
+    <list default="true" id="f01a45ba-8e62-4d96-8919-854dd5d488cb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/Colorful Cartoon Kids Background Wallpaper HD 5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/about-pics/about-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/about-pics/about-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/about-pics/about-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/about-pics/about-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/EmilyWeeks-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/EmilyWeeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/crystal-affleck-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/crystal-affleck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/kathy-campbell-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/leaanne-gallant-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/leaanne-gallant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/lisa-maclaren-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/lisa-maclaren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/marie-hennebery-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/marie-hennebery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/patti larkin-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/wendy-miller-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/staff pics/wendy-miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/images/test_sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/jfy_pdf.pdf.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/map-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/dreams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/escape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/intro-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/downloads-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/intro-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/just_for_you_background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/EmilyWeeks-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/EmilyWeeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/crystal-affleck-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/crystal-affleck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/kathy-campbell-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/leaanne-gallant-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/leaanne-gallant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/lisa-maclaren-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/lisa-maclaren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/marie-hennebery-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/marie-hennebery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/emily_weeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/emily_weeks_square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/karen_fraser.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/kathy_campbell_daugter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/lisa_maclaren.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/emily_weeks_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/karen_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/patti_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/patti_larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/patti larkin-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/wendy-miller-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/wendy-miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/test_sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/map-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/dreams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/escape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/intro-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/downloads-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/intro-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/staff/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/staff/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/staff/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/gis/move_vertex_off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/gis/move_vertex_on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-addlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-deletelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-no.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-unknown-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/icon-yes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/selector-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/sorting-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/tooltag-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/img/tooltag-arrowright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/agency.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/lisa_bio.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/agency.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/templates/base_old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_STUFF_FROM_MERGE/templates/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/justForYou.iml" afterPath="$PROJECT_DIR$/.idea/justForYou.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/tabs.html" afterPath="$PROJECT_DIR$/templates/tabs.html" />
+    </list>
     <ignored path="justForYou.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -12,6 +542,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/justForYou$manage.coverage" NAME="manage Coverage Results" MODIFIED="1460056454951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -32,7 +563,7 @@
           <file leaf-file-name="faq.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home/templates/home/faq.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
                   <folding />
                 </state>
@@ -42,12 +573,9 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2693">
-                  <caret line="361" column="42" selection-start-line="361" selection-start-column="42" selection-end-line="361" selection-end-column="42" />
-                  <folding>
-                    <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-                    <marker date="1477254601158" expanded="false" signature="10391:10412" ph="..." />
-                  </folding>
+                <state vertical-scroll-proportion="0.53833604">
+                  <caret line="201" column="90" selection-start-line="201" selection-start-column="90" selection-end-line="201" selection-end-column="90" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -55,8 +583,8 @@
           <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
-                  <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="8" column="32" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -65,8 +593,8 @@
           <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="110">
-                  <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="125" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
                   <folding>
                     <element signature="e#0#36#0" expanded="true" />
                   </folding>
@@ -77,7 +605,7 @@
           <file leaf-file-name="policies_procedures.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home/templates/home/policies_procedures.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="349">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
                   <folding />
                 </state>
@@ -87,7 +615,7 @@
           <file leaf-file-name="image_gallery.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/home/templates/home/image_gallery.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="44">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
                   <folding />
                 </state>
@@ -97,7 +625,7 @@
           <file leaf-file-name="tabs.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/tabs.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
                   <folding />
                 </state>
@@ -107,7 +635,7 @@
           <file leaf-file-name="business-casual.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="22">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
                   <folding />
                 </state>
@@ -117,8 +645,8 @@
           <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+                <state vertical-scroll-proportion="-34.064518">
+                  <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -131,7 +659,7 @@
           <file leaf-file-name="faq.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/home/templates/home/faq.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="0" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
                   <folding />
                 </state>
@@ -141,7 +669,7 @@
           <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/staff/admin.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#32#0" expanded="true" />
@@ -153,7 +681,7 @@
           <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/staff/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="88">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
                   <folding />
                 </state>
@@ -173,6 +701,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -203,23 +734,22 @@
         <option value="$PROJECT_DIR$/home/templates/home/faq.html" />
         <option value="$PROJECT_DIR$/staff/models.py" />
         <option value="$PROJECT_DIR$/home/urls.py" />
-        <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/home/templates/home/policies_procedures.html" />
         <option value="$PROJECT_DIR$/templates/tabs.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1929" />
-    <option name="y" value="-91" />
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
     <option name="width" value="1618" />
     <option name="height" value="868" />
   </component>
@@ -281,7 +811,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -306,8 +836,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -392,11 +920,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="last_opened_file_path" value="E:/LAPTOP MJL BACKUP/BUILDS/iathlete_venv/iathlete_catamounts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -515,21 +1045,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="justForYou" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -540,7 +1056,6 @@
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
-      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -701,9 +1216,7 @@
       <item index="1" class="java.lang.String" itemvalue="Python.manage" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -712,7 +1225,6 @@
       <changelist id="f01a45ba-8e62-4d96-8919-854dd5d488cb" name="Default" comment="" />
       <created>1458429884838</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1458429884838</updated>
     </task>
     <servers />
@@ -727,29 +1239,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1929" y="-91" width="1618" height="868" extended-state="6" />
+    <frame x="1911" y="-9" width="1618" height="868" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1599741" sideWeight="0.48671097" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19793014" sideWeight="0.48671097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899627" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5042644" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32713756" sideWeight="0.4936034" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925373" sideWeight="0.50323623" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32713756" sideWeight="0.4904051" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21215352" sideWeight="0.51328903" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39927405" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29205608" sideWeight="0.50323623" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="manage.py@justForYou" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899627" sideWeight="0.49676377" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32342008" sideWeight="0.45042643" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="manage.py@just_for_you" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22742476" sideWeight="0.49573562" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -809,7 +1321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -826,21 +1338,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -850,35 +1362,35 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -890,42 +1402,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="165" column="83" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="410" column="49" selection-start-line="410" selection-start-column="49" selection-end-line="410" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4159" selection-start-line="0" selection-start-column="4159" selection-end-line="0" selection-end-column="4159" />
         </state>
       </provider>
@@ -937,84 +1449,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6244" column="14" selection-start-line="6244" selection-start-column="13" selection-end-line="6244" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staff/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Scripts/django-admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Lib/site-packages/django/core/management/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
@@ -1022,7 +1534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/justForYou.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
@@ -1034,14 +1546,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
         </state>
       </provider>
@@ -1053,32 +1565,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base_old.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="125" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/staff/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding />
         </state>
@@ -1086,7 +1588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/image_gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
@@ -1094,7 +1596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state vertical-scroll-proportion="0.0">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding />
         </state>
@@ -1102,7 +1604,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/staff/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -1110,54 +1612,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/home/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/policies_procedures.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state vertical-scroll-proportion="0.0">
           <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/tabs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state vertical-scroll-proportion="0.0">
           <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/home/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state vertical-scroll-proportion="-34.064518">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2693">
-          <caret line="361" column="42" selection-start-line="361" selection-start-column="42" selection-end-line="361" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <marker date="1477254601158" expanded="false" signature="10391:10412" ph="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.53833604">
+          <caret line="201" column="90" selection-start-line="201" selection-start-column="90" selection-end-line="201" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>

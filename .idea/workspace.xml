@@ -1,7 +1,531 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="" />
+    <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/Colorful Cartoon Kids Background Wallpaper HD 5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/about-pics/about-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/about-pics/about-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/about-pics/about-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/about-pics/about-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/EmilyWeeks-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/EmilyWeeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/crystal-affleck-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/crystal-affleck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/kathy-campbell-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/leaanne-gallant-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/leaanne-gallant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/lisa-maclaren-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/lisa-maclaren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/marie-hennebery-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/marie-hennebery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/patti larkin-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/wendy-miller-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/staff pics/wendy-miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/images/test_sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/jfy_pdf.pdf.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/about/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/map-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/dreams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/escape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/intro-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/img/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/downloads-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/intro-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/img/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/about-pics/about-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/just_for_you_background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/EmilyWeeks-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/EmilyWeeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/crystal-affleck-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/crystal-affleck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/kathy-campbell-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/leaanne-gallant-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/leaanne-gallant.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/lisa-maclaren-square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/lisa-maclaren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/marie-hennebery-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/marie-hennebery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/emily_weeks.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/emily_weeks_square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/karen_fraser.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/kathy-campbell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/kathy_campbell_daugter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/lisa_maclaren.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/emily_weeks_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/karen_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/patti_bio.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/patti_larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/patti larkin-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/patti larkin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/wendy-miller-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/wendy-miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/starwarz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/test_sun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/about/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/aetuts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/creative-market.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/designmodo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/envato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/microlancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/themeforest.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/logos/wordpress.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/map-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/dreams-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/dreams.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/escape-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/escape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/golden-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/golden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/roundicons-free.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/roundicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/startup-framework-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/startup-framework.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/treehouse-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/portfolio/treehouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/intro-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/img/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/downloads-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/intro-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/just_4_you_poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/img/shapeimage_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/staff/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/staff/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/staff/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/gis/move_vertex_off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/gis/move_vertex_on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-addlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-deletelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-no.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-unknown-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/icon-yes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/selector-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/sorting-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/tooltag-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/img/tooltag-arrowright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/agency.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/images/staff_pics/new_staff_pics/new_staff_bios/lisa_bio.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/js/jquery-2.2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/agency.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/templates/base_old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/old_STUFF_FROM_MERGE/templates/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/templates/base.html" afterPath="$PROJECT_DIR$/justForYou/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/templates/index.html" afterPath="$PROJECT_DIR$/justForYou/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/templates/tabs.html" afterPath="$PROJECT_DIR$/justForYou/templates/tabs.html" />
+    </list>
     <ignored path="justForYouVenv.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,16 +543,19 @@
   <component name="FavoritesManager">
     <favorites_list name="justForYouVenv" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -56,7 +583,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -71,17 +597,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou_local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="justForYouVenv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou_local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/just_for_you" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -96,10 +637,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25348338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
