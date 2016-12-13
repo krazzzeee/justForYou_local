@@ -2,8 +2,306 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01a45ba-8e62-4d96-8919-854dd5d488cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/wsgi.py" afterPath="$PROJECT_DIR$/justForYou/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/README.md" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/index.html" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/package.json" afterPath="$PROJECT_DIR$/static/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/admin/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/admin/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/admin/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" afterPath="$PROJECT_DIR$/static/admin/fonts/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" afterPath="$PROJECT_DIR$/static/admin/img/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/README.txt" afterPath="$PROJECT_DIR$/static/admin/img/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/search.svg" afterPath="$PROJECT_DIR$/static/admin/img/search.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery-2.2.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/static/js/jquery-2.2.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/README.md" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/index.html" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/agency.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/classie.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/contact_me.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/agency.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/mixins.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/mail/contact_me.php" afterPath="$PROJECT_DIR$/static/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/LICENSE" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/README.md" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/about.html" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/blog.html" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/contact.html" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/index.html" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/jquery.js" afterPath="$PROJECT_DIR$/static/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/README.md" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/index.html" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" afterPath="$PROJECT_DIR$/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static_files/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/static_files/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static_files/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/static_files/js/jquery-2.2.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/README.md" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/index.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/agency.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/agency.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/classie.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/agency.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/agency.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/mixins.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" afterPath="$PROJECT_DIR$/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/LICENSE" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/README.md" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/about.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/blog.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/contact.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/index.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/README.md" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/index.html" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" afterPath="$PROJECT_DIR$/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <ignored path="justForYou.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +330,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.9">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="572">
-                  <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                <state relative-caret-position="409">
+                  <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -62,7 +360,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/settings.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -121,7 +419,7 @@
           <file leaf-file-name="policies_procedures.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/home/templates/home/policies_procedures.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="635">
+                <state relative-caret-position="1384">
                   <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
                   <folding />
                 </state>
@@ -188,8 +486,8 @@
         <option value="$PROJECT_DIR$/templates/tabs.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/home/views.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/justForYou/wsgi.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -200,8 +498,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-8" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
@@ -675,8 +972,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="0" width="1938" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1707841" sideWeight="0.48671097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899627" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1024,7 +1321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/home/policies_procedures.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
+        <state relative-caret-position="1384">
           <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
@@ -1079,14 +1376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -1107,6 +1396,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
           <folding />
         </state>
       </provider>
