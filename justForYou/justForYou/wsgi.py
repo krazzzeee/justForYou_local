@@ -39,7 +39,7 @@ application = get_wsgi_application()
 #     sys.path.remove(item)
 # sys.path[:0] = new_sys_path
 #
-# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "iathlete_blackhawks.settings")
+# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "justForYou.settings")
 #
 # # This application object is used by any WSGI server configured to use this
 # # file. This includes Django's development server, if the WSGI_APPLICATION
