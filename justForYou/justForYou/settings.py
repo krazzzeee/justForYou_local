@@ -77,7 +77,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'justForYou.wsgi.application'
 
-TEST_DB = True
+TEST_DB = False
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
