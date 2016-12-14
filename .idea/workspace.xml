@@ -2,308 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/just_for_you_old/.idea/jsLinters/jscs.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/jfy_pdf.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/.idea/runConfigurations/justForYou.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/.idea/sqldialects.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/justForYou/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/justforyou.db" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/justForYou/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/justForYouVenv.iml" afterPath="$PROJECT_DIR$/.idea/justForYouVenv.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/justForYou/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/justForYou/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/justForYou.iml" afterPath="$PROJECT_DIR$/justForYou/.idea/justForYou.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/misc.xml" afterPath="$PROJECT_DIR$/justForYou/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/.idea/workspace.xml" afterPath="$PROJECT_DIR$/justForYou/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/README.md" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/index.html" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/package.json" afterPath="$PROJECT_DIR$/justForYou/static/Bootstrap-Image-Gallery-3.4.2/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/base.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/changelists.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/fonts.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/login.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/justForYou/static/admin/css/widgets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/fonts/README.txt" afterPath="$PROJECT_DIR$/justForYou/static/admin/fonts/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/README.txt" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/calendar-icons.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/calendar-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-addlink.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-addlink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-alert.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-alert.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-calendar.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-calendar.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-changelink.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-changelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-clock.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-clock.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-deletelink.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-deletelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-no.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-no.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-unknown-alt.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-unknown-alt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-unknown.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-unknown.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/icon-yes.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/icon-yes.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/inline-delete.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/inline-delete.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/search.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/search.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/selector-icons.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/selector-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/sorting-icons.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/sorting-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/tooltag-add.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/tooltag-add.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/img/tooltag-arrowright.svg" afterPath="$PROJECT_DIR$/justForYou/static/admin/img/tooltag-arrowright.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/SelectBox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/SelectFilter2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/actions.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/actions.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/admin/DateTimeShortcuts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/admin/RelatedObjectLookups.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/calendar.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/collapse.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/collapse.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/core.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/inlines.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/inlines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/inlines.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/jquery-2.2.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/jquery.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/prepopulate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/prepopulate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/timeparse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/urlify.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/urlify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/jquery/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="$PROJECT_DIR$/justForYou/static/admin/js/vendor/xregexp/xregexp.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/justForYou/static/js/jquery-2.2.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/README.md" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/index.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/agency.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/agency.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/classie.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/classie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/contact_me.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/contact_me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/agency.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/agency.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/mail/contact_me.php" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-agency-1.0.6/mail/contact_me.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/README.md" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/about.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/blog.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/contact.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/index.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-business-casual-1.0.4/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/README.md" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/index.html" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" afterPath="$PROJECT_DIR$/justForYou/static/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/css/bootstrap-image-gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/css/demo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/bootstrap-image-gallery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/js/demo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" afterPath="$PROJECT_DIR$/justForYou/static_files/Bootstrap-Image-Gallery-3.4.2/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/js/jquery-2.2.2.js" afterPath="$PROJECT_DIR$/justForYou/static_files/js/jquery-2.2.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/README.md" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/index.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/agency.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/agency.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/cbpAnimatedHeader.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/classie.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/classie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/contact_me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/jqBootstrapValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/agency.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/agency.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-agency-1.0.6/mail/contact_me.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/README.md" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/about.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/blog.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/contact.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/css/business-casual.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/index.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-business-casual-1.0.4/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/LICENSE" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/README.md" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/index.html" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/sass/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" afterPath="$PROJECT_DIR$/justForYou/static_files/startbootstrap-grayscale-1.0.6/sass/grayscale.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/settings.py" afterPath="$PROJECT_DIR$/justForYou/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/templates/base.html" afterPath="$PROJECT_DIR$/justForYou/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/templates/index.html" afterPath="$PROJECT_DIR$/justForYou/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/tabs.html" afterPath="$PROJECT_DIR$/templates/tabs.html" />
     </list>
     <ignored path="justForYouVenv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -314,6 +32,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/justForYouVenv$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1481726928954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scripts" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -322,21 +43,65 @@
     <favorites_list name="justForYouVenv" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1518">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="58" column="90" lean-forward="false" selection-start-line="58" selection-start-column="90" selection-end-line="58" selection-end-column="90" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+                <element signature="e#7971#7978#0#HTML" expanded="true" />
+                <element signature="e#8981#8988#0#HTML" expanded="true" />
+                <element signature="e#10655#10661#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/tabs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{{ STATIC_URL }}</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/justForYou/templates/index.html" />
+        <option value="$PROJECT_DIR$/justForYou/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/tabs.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -365,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -378,20 +142,282 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYouVenv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou_local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/justForYou" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../justForYou_local" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\gitTest\justForYou_local\static_files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.Unnamed">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\gitTest\NewJFY_VENV\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="justForYouVenv" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="DJANGO_SETTINGS_MODULE" value="settings" />
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\justForYouVenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justForYou" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="justForYouVenv" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.JFY" />
+    </list>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -405,26 +431,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25725028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26852846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,9 +466,103 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1518">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="e#7971#7978#0#HTML" expanded="true" />
+            <element signature="e#8981#8988#0#HTML" expanded="true" />
+            <element signature="e#10655#10661#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="e#7971#7978#0#HTML" expanded="true" />
+            <element signature="e#8981#8988#0#HTML" expanded="true" />
+            <element signature="e#10655#10661#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="e#7971#7978#0#HTML" expanded="true" />
+            <element signature="e#8981#8988#0#HTML" expanded="true" />
+            <element signature="e#10655#10661#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justForYou/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8687">
+          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="e#16349#16356#0#HTML" expanded="false" />
+            <element signature="e#22662#22669#0#HTML" expanded="false" />
+            <element signature="e#24353#24359#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justForYou/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="58" column="90" lean-forward="false" selection-start-line="58" selection-start-column="90" selection-end-line="58" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="e#7971#7978#0#HTML" expanded="true" />
+            <element signature="e#8981#8988#0#HTML" expanded="true" />
+            <element signature="e#10655#10661#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
