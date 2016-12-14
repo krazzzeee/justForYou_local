@@ -4,10 +4,6 @@ from django.template.context import RequestContext
 
 
 def home(request):
-    # articles = Article.objects.filter(is_active=True).order_by('-last_modified')[:3]
-    # content = ContentBox.objects.filter(is_active=True).order_by('-date_created')
-    # news = News.objects.filter(is_active=True).order_by('-posted_date')[:5]
-    # slides = Slide.objects.filter(is_active=True).order_by('order')
     patti_bio = "Patti is the Owner/Director at Just For You Children’s Centre. She has been a Certified Early" \
                 " Childhood Educator since 1999 and a member of the Early Childhood Development Association. " \
                 "In 2013, Patti was the recipient of the MacLauchlan Prize for Effective Writing with Excellence " \
@@ -43,7 +39,13 @@ def home(request):
                 "success at the centre. When not working here full time, Kathy and her husband Leigh, of 40 years " \
                 "enjoy spending time with their 5 children and 10 grandchildren."
 
-    crystal_bio = "New Bio coming soon"
+    crystal_bio = "Crystal Affleck has been employed with Just For You Children’s Centre since 2006, she graduated " \
+                  "from Early Childhood Care and Education in 2010 and has almost 20 years experience working in the " \
+                  "childcare field. She is currently a board member of the Early Childhood Development Association," \
+                  " holding the position of Secretary. Crystal has worked with all age groups, however she loves " \
+                  "spending her days with the toddlers, so many milestones to encourage and observe, she especially " \
+                  "enjoys creative and story time! When Crystal is not at work you will find her with her family doing"\
+                  " something in the great outdoors!"
 
     leaanne_bio = "Leanne has been employed here at Just For You, since 2011. She works with the children in the 2yr" \
                   " and 3yr old group.  She moved to Montague, PEI from Ontario with her husband Dave and their two" \
@@ -59,20 +61,17 @@ def home(request):
 
     wendy_bio = "New Bio coming soon"
 
-
     # Staff
     staff = [{'name': 'Patti Larkin', 'desc': patti_bio, 'img': 'new_staff_pics/patti_larkin.jpg', 'id': 1},
              {'name': 'Karen Fraser', 'desc': karen_bio, 'img': 'new_staff_pics/karen_fraser.jpg', 'id': 2},
              {'name': 'Lisa MacLaren', 'desc': lisa_bio, 'img': 'new_staff_pics/lisa_maclaren.jpg', 'id': 3},
              {'name': 'Emily Weeks', 'desc': emily_bio, 'img': 'new_staff_pics/emily_weeks_square.jpg', 'id': 4},
              {'name': 'Kathy Campbell', 'desc': kathy_bio, 'img': 'new_staff_pics/kathy_campbell_daugter.jpg', 'id': 5},
-
              {'name': 'Crystal Affleck', 'desc': crystal_bio, 'img': 'crystal-affleck-square.jpg', 'id': 6},
              {'name': 'Leaanne Gallant', 'desc': leaanne_bio, 'img': 'leaanne-gallant-square.jpg', 'id': 7},
              {'name': 'Marie Hennbery', 'desc': marie_bio, 'img': 'marie-hennebery-square.jpg', 'id': 8},
              {'name': 'Wendy Miller', 'desc': wendy_bio, 'img': 'wendy-miller-square.jpg', 'id': 9},
              # {'name': 'Lisa MacLaren', 'desc': lisa_bio, 'img': 'new_staff_pics/lisa_maclaren.jpg', 'id': 10},
-
             ]
 
     t = loader.get_template('index.html')
@@ -81,7 +80,6 @@ def home(request):
     })
 
     return HttpResponse(t.render(c))
-
 
 
 def faq(request):
@@ -100,21 +98,11 @@ def image_gallery(request):
                    {'link': 'Patti Larkin'},
                    {'link': 'Patti Larkin'}
                 ]
-
     t = loader.get_template('home/image_gallery.html')
     c = RequestContext(request, {
             'image_links': image_links,
     })
     return HttpResponse(t.render(c))
-
-
-# def help(request):
-#
-#     t = loader.get_template('help.html')
-#     c = RequestContext(request, {
-#
-#     })
-#     return HttpResponse(t.render(c))
 
 
 def policies_procedures(request):
