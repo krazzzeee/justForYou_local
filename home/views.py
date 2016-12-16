@@ -61,6 +61,8 @@ def home(request):
 
     wendy_bio = "New Bio coming soon"
 
+    index = 0
+
     # Staff
     staff = [{'name': 'Patti Larkin', 'desc': patti_bio, 'img': 'new_staff_pics/patti_larkin.jpg', 'id': 1},
              {'name': 'Karen Fraser', 'desc': karen_bio, 'img': 'new_staff_pics/karen_fraser.jpg', 'id': 2},
@@ -77,6 +79,7 @@ def home(request):
     t = loader.get_template('index.html')
     c = RequestContext(request, {
         'staff': staff,
+        'index': index,
     })
 
     return HttpResponse(t.render(c))
