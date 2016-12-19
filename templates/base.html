@@ -20,20 +20,14 @@
     {% block styles %}
         <link href="/static/startbootstrap-business-casual-1.0.4/css/bootstrap.min.css" rel="stylesheet">
         <link href="/static/startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">
-{#        <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">#}
         <link href="/static/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
-        <!-- Custom CSS -->
-{#        <link href="{{ STATIC_URL }}startbootstrap-business-casual-1.0.4/css/business-casual.css" rel="stylesheet">#}
-
         <!-- Custom Fonts -->
-{#        <link href="/static/startbootstrap-grayscale-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">#}
         <link href="/static/startbootstrap-agency-1.0.6/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-
         <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
         <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href="/static/fotorama-4.6.4/fotorama.css" rel="stylesheet">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -41,84 +35,126 @@
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
+        <style>
+            #gmap_canvas img{max-width:none!important;background:none!important}
+        </style>
     {% endblock styles %}
 
 </head>
 
-{#<body data-spy="scroll" data-target=".subnav" data-offset="50">#}
 <body>
-<div class="brand">Just For You</div>
-<div class="address-bar">West Royalty Business Park | 51 Watts Avenue | Charlottetown, PE  C1E 2B7 | (902) 629-1226</div>
+
+<div class="brand" style="text-shadow: 2px 2px black;">
+    Just For You
+</div>
+
+<div class="address-bar" style="text-shadow: 2px 2px black;">
+    West Royalty Business Park | 51 Watts Avenue | Charlottetown, PE  C1E 2B7 | (902) 629-1226
+</div>
 
 {% block header %}
-{#    <div class="brand">Just For You</div>#}
-{#    <div class="address-bar">West Royalty Business Park | 51 Watts Avenue | Charlottetown, PE  C1E 2B7 | (902) 629-1226</div>#}
 {% endblock header %}
-
 
 {% block menu %}
     {% include "tabs.html" with active_tab='tab1' %}
 {% endblock menu %}
 
-<div class="container" style="margin-bottom:20px;">
-    <div class="content">
-        <div class="page-header">
+    <div class="container" style="margin-bottom:20px;">
+        <div class="content">
+            {% block content %}
 
-{#            {% block logo %}#}
-{#                <img class="top-logo"#}
-{#                     src="/static/"/>#}
-{#            {% endblock %}#}
-
-            <h1>{% block content_title %} {% endblock %}</h1>
+            {% endblock content %}
         </div>
 
-        {% block content %}
+        {% block footer %}
+            <!-- Footer -->
+            <footer class="container col-lg-12 text-center">
+                <section >
+                    <div class="row">
+                        <div class="container col-lg-12 text-center">
+                            <p>Copyright &copy; Just For You 2017</p>
+                        </div>
+                    </div>
+                </section>
 
-        {% endblock content %}
+            </footer>
+        {% endblock footer %}
     </div>
-
-    {% block footer %}
-        {#        <div class="row">#}
-        {#            <div class="span12">&nbsp;</div>#}
-        {#        </div>#}
-        {#        <div class="row">#}
-        {#            <div class="span6">#}
-        {#                {% if branding.logo_path %}#}
-        {#                    <div class="login-logo" style="margin-left:0px !important;"></div>#}
-        {#                {% else %}#}
-        {#                    <div class="login-logo" style=""></div>#}
-        {#                    <!--<img src="{{ STATIC_URL }}branding/">-->#}
-        {#                {% endif %}#}
-        {##}
-        {#            </div>#}
-        {#        </div>#}
-    {% endblock footer %}
-</div>
 <!--js -->
 {% block scripts %}
+
+    <script src="/static/jquery-3.1.1.js"></script>
+    <script src="/static/fotorama-4.6.4/fotorama.js"></script>
+{#<script>#}
+{#  jQuery(document).ready(function($) {#}
+{##}
+{#        alert("test new");#}
+{##}
+{#        $('#myCarousel').carousel({#}
+{#                interval: 5000#}
+{#        });#}
+{##}
+{#        //Handles the carousel thumbnails#}
+{#        $('[id^=carousel-selector-]').click(function () {#}
+{#        var id_selector = $(this).attr("id");#}
+{#        try {#}
+{#            var id = /-(\d+)$/.exec(id_selector)[1];#}
+{#            console.log(id_selector, id);#}
+{#            jQuery('#myCarousel').carousel(parseInt(id));#}
+{#        } catch (e) {#}
+{#            console.log('Regex failed!', e);#}
+{#        }#}
+{#    });#}
+{#        // When the carousel slides, auto update the text#}
+{#        $('#myCarousel').on('slid.bs.carousel', function (e) {#}
+{#                 var id = $('.item.active').data('slide-number');#}
+{#                $('#carousel-text').html($('#slide-content-'+id).html());#}
+{#        });#}
+{#{);#}
+{#        $( document ).ready(function(){#}
+{##}
+{#    $(function() {#}
+{#            jQuery(document).ready(function ($) {#}
+{#                alert("test");#}
+{#                ('#myCarousel').carousel({#}
+{#                    interval: 5000#}
+{#                });#}
+{##}
+{#                //Handles the carousel thumbnails#}
+{#                $('[id^=carousel-selector-]').click(function () {#}
+{#                    var id_selector = $(this).attr("id");#}
+{#                    alert("test2");#}
+{#                    try {#}
+{#                        var id = /-(\d+)$/.exec(id_selector)[1];#}
+{#                        console.log(id_selector, id);#}
+{#                        jQuery('#myCarousel').carousel(parseInt(id));#}
+{#                    } catch (e) {#}
+{#                        console.log('Regex failed!', e);#}
+{#                    }#}
+{#                });#}
+{#                // When the carousel slides, auto update the text#}
+{#                $('#myCarousel').on('slid.bs.carousel', function (e) {#}
+{#                    alert("test2");#}
+{##}
+{#                    var id = $('.item.active').data('slide-number');#}
+{#                    $('#carousel-text').html($('#slide-content-' + id).html());#}
+{#                });#}
+{#            });#}
+{#        });#}
+{#    </script>#}
+
+
     <!-- jQuery -->
-{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.js"></script>#}
-    <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
+{#    <script src="/static/jquery-3.1.1.js"></script>#}
 
+{#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>#}
+{#    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/js/npm.js"></script>#}
+{#    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/css/bootstrap.css"></script>#}
+    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+
+    <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
-{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/bootstrap.min.js"></script>#}
     <script src="/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js"></script>
-
     <!-- Plugin JavaScript -->
-{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/jquery.easing.min.js"></script>#}
-{#    <script src="{{ STATIC_URL }}startbootstrap-agency-1.0.6/js/agency.js"></script>#}
     <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
-    <!-- Custom Theme JavaScript -->
-{#    <script src="{{ STATIC_URL }}startbootstrap-grayscale-1.0.6/js/grayscale.js"></script>#}
-
-    <!-- Image Gallery -->
-{#        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>#}
-{#        <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>#}
-{#        <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/js/bootstrap-image-gallery.min.css"></script>#}
-
-{#    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/css/bootstrap-image-gallery.min.css"></script>#}
-{#    <script src="{{ STATIC_URL }}bootstrap-image-gallery-3.4.2/js/bootstrap-image-gallery.min.js"></script>#}
-
 {% endblock scripts %}
-</body>
-</html>
