@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/fotorama-4.6.4/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static/jquery-3.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/jquery-3.1.1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.js" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/example.html" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.css" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.js" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <ignored path="justForYouVenv.iws" />
@@ -34,24 +38,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="192" column="56" lean-forward="true" selection-start-line="192" selection-start-column="56" selection-end-line="192" selection-end-column="56" />
+            <state relative-caret-position="175">
+              <caret line="217" column="0" lean-forward="true" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-                <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-                <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-                <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fotorama.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama.js">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-3.1.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/justForYou/static/jquery-3.1.1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -60,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <file leaf-file-name="jquery-3.1.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/justForYou/static_files/jquery-3.1.1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/justForYou/home/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+            <state relative-caret-position="50">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -127,9 +138,9 @@
         <option value="$PROJECT_DIR$/templates/tabs.html" />
         <option value="$PROJECT_DIR$/justForYou/settings.py" />
         <option value="$PROJECT_DIR$/home/views.py" />
+        <option value="$PROJECT_DIR$/justForYou/home/views.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/justForYou/home/views.py" />
       </list>
     </option>
   </component>
@@ -182,7 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,6 +204,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="justForYou_local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYouVenv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou_local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="justForYou" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -210,11 +239,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static_files" />
+              <option name="myItemId" value="justForYou" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fotorama-4.6.4" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,9 +268,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\gitTest\justForYou_local\static_files" />
       <recent name="E:\Python\gitTest\justForYou_local\justForYou\static_files" />
       <recent name="E:\Python\gitTest\justForYou_local\justForYou\static" />
+      <recent name="E:\Python\gitTest\justForYou_local\static_files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python\gitTest\justForYou_local\static" />
@@ -557,28 +586,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16225">
-          <caret line="649" column="57" lean-forward="true" selection-start-line="649" selection-start-column="57" selection-end-line="649" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/tabs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -604,9 +611,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -644,9 +648,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -684,9 +685,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -724,9 +722,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -756,9 +751,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -788,9 +780,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -834,9 +823,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -880,9 +866,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -901,9 +884,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -915,9 +895,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -929,9 +906,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1015,33 +989,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static_files/fotorama-4.6.4/fotorama.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="192" column="56" lean-forward="true" selection-start-line="192" selection-start-column="56" selection-end-line="192" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <marker date="1482165708615" expanded="false" signature="9854:9890" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10814:10831" ph="..." />
-            <marker date="1482165708615" expanded="false" signature="10890:10904" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,10 +1009,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/justForYou/home/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        <state relative-caret-position="50">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justForYou/static/jquery-3.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justForYou/static_files/jquery-3.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="217" column="0" lean-forward="true" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
