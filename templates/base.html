@@ -27,6 +27,7 @@
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
         <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
         <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        <link href="/static/fotorama-4.6.4/fotorama.css" rel="stylesheet">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,6 +35,9 @@
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
+        <style>
+            #gmap_canvas img{max-width:none!important;background:none!important}
+        </style>
     {% endblock styles %}
 
 </head>
@@ -80,33 +84,33 @@
 {% block scripts %}
 
     <script src="/static/jquery-3.1.1.js"></script>
-
-<script>
-  jQuery(document).ready(function($) {
-
-        alert("test new");
-
-        $('#myCarousel').carousel({
-                interval: 5000
-        });
-
-        //Handles the carousel thumbnails
-        $('[id^=carousel-selector-]').click(function () {
-        var id_selector = $(this).attr("id");
-        try {
-            var id = /-(\d+)$/.exec(id_selector)[1];
-            console.log(id_selector, id);
-            jQuery('#myCarousel').carousel(parseInt(id));
-        } catch (e) {
-            console.log('Regex failed!', e);
-        }
-    });
-        // When the carousel slides, auto update the text
-        $('#myCarousel').on('slid.bs.carousel', function (e) {
-                 var id = $('.item.active').data('slide-number');
-                $('#carousel-text').html($('#slide-content-'+id).html());
-        });
-});
+    <script src="/static/fotorama-4.6.4/fotorama.js"></script>
+{#<script>#}
+{#  jQuery(document).ready(function($) {#}
+{##}
+{#        alert("test new");#}
+{##}
+{#        $('#myCarousel').carousel({#}
+{#                interval: 5000#}
+{#        });#}
+{##}
+{#        //Handles the carousel thumbnails#}
+{#        $('[id^=carousel-selector-]').click(function () {#}
+{#        var id_selector = $(this).attr("id");#}
+{#        try {#}
+{#            var id = /-(\d+)$/.exec(id_selector)[1];#}
+{#            console.log(id_selector, id);#}
+{#            jQuery('#myCarousel').carousel(parseInt(id));#}
+{#        } catch (e) {#}
+{#            console.log('Regex failed!', e);#}
+{#        }#}
+{#    });#}
+{#        // When the carousel slides, auto update the text#}
+{#        $('#myCarousel').on('slid.bs.carousel', function (e) {#}
+{#                 var id = $('.item.active').data('slide-number');#}
+{#                $('#carousel-text').html($('#slide-content-'+id).html());#}
+{#        });#}
+{#{);#}
 {#        $( document ).ready(function(){#}
 {##}
 {#    $(function() {#}
@@ -137,13 +141,17 @@
 {#                });#}
 {#            });#}
 {#        });#}
-    </script>
+{#    </script>#}
 
 
     <!-- jQuery -->
 {#    <script src="/static/jquery-3.1.1.js"></script>#}
 
 {#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>#}
+{#    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/js/npm.js"></script>#}
+{#    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/css/bootstrap.css"></script>#}
+    <script src="/static/bootstrap-3.3.7/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+
     <script src="/static/startbootstrap-business-casual-1.0.4/js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/static/startbootstrap-business-casual-1.0.4/js/bootstrap.min.js"></script>
