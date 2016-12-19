@@ -9,7 +9,9 @@
                 <span class="icon-bar"></span>
             </button>
             <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-            <a class="navbar-brand" style="margin-left: 20px" href="index.html">  Just For You </a>
+            <a class="navbar-brand" style="margin-left: 20px" href="{% url 'home' %}">
+                Just For You
+            </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -23,6 +25,15 @@
                 <li>
                     <a href="{% url 'faq' %}"> FAQ </a>
                 </li>
+
+{#                <li style=" padding: 15px;">#}
+{#                    <a class="well navbar-toggle" style="color: slategrey;" href="#">#}
+{#                        West Royalty Business Park <br>#}
+{#                        51 Watts Avenue <br>#}
+{#                        Charlottetown, PE  C1E 2B7 <br>#}
+{#                        (902) 629-1226#}
+{#                    </a>#}
+{#                </li>#}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
