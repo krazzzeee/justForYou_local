@@ -63,7 +63,6 @@ def home(request):
 
     index = 0
 
-    # Staff
     staff = [{'name': 'Patti Larkin', 'desc': patti_bio, 'img': 'new_staff_pics/patti_larkin.jpg', 'id': 1},
              {'name': 'Karen Fraser', 'desc': karen_bio, 'img': 'new_staff_pics/karen_fraser.jpg', 'id': 2},
              {'name': 'Lisa MacLaren', 'desc': lisa_bio, 'img': 'new_staff_pics/lisa_maclaren.jpg', 'id': 3},
@@ -73,7 +72,6 @@ def home(request):
              {'name': 'Leaanne Gallant', 'desc': leaanne_bio, 'img': 'leaanne-gallant-square.jpg', 'id': 7},
              {'name': 'Marie Hennbery', 'desc': marie_bio, 'img': 'marie-hennebery-square.jpg', 'id': 8},
              {'name': 'Wendy Miller', 'desc': wendy_bio, 'img': 'wendy-miller-square.jpg', 'id': 9},
-             # {'name': 'Lisa MacLaren', 'desc': lisa_bio, 'img': 'new_staff_pics/lisa_maclaren.jpg', 'id': 10},
             ]
 
     t = loader.get_template('index.html')
@@ -109,15 +107,8 @@ def image_gallery(request):
 
 
 def policies_procedures(request):
-    # image_links = [{'link': '/images'},
-    #                {'link': 'Patti Larkin'},
-    #                {'link': 'Patti Larkin'},
-    #                {'link': 'Patti Larkin'},
-    #                {'link': 'Patti Larkin'}
-    #             ]
 
     t = loader.get_template('home/policies_procedures.html')
     c = RequestContext(request, {
-            # 'image_links': image_links,
     })
     return HttpResponse(t.render(c))
