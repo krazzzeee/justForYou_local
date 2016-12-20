@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static_files/jfy_pdf.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/justForYou/static/jfy_pdf.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" />
@@ -511,7 +512,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1910" y="4" width="980" height="1030" extended-state="1" />
+    <frame x="1910" y="4" width="980" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5743243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
