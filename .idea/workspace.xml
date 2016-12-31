@@ -2,297 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69028cc0-fc60-4dc2-8809-f4ca94f65b4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/new_staff_pics/leaanne_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/crystal-affleck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/leaanne.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/leaanne_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/new_staff_bios/leanne_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/new_staff_bios/marie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/new_staff_bios/marie_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/new_staff_bios/wendy_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/justForYou/static_files/jfy_pdf.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/crystal-affleck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/emily_weeks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/emily_weeks_square.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/karen_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/karen_fraser.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/leaanne.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/leaanne_gallant.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/leanne_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/marie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/marie_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/wendy_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/EmilyWeeks-square.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/EmilyWeeks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/crystal-affleck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/karen_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/leaanne.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/leaanne_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/new_staff_bios/leanne_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/new_staff_bios/marie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/new_staff_bios/marie_bio.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/images/staff_pics/new_staff_pics/new_staff_bios/wendy_bio.docx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/Colorful Cartoon Kids Background Wallpaper HD 5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/about-pics/about-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/about-pics/about-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/about-pics/about-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/about-pics/about-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/just_4_you_poster.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/mini.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/shapeimage_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/starwarz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/test_sun.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/new_staff_pics/leaanne_gallant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/new_staff_pics/new_staff_bios/marie_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/leaanne-gallant-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/patti larkin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/EmilyWeeks-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/EmilyWeeks.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/crystal-affleck-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/crystal-affleck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/kathy-campbell-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/kathy-campbell.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/leaanne-gallant-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/leaanne-gallant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/lisa-maclaren-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/lisa-maclaren.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/marie-hennebery-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/marie-hennebery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/patti larkin-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/patti larkin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/wendy-miller-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/images/staff pics/wendy-miller.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/2_3_play_room.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/art.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/baby_room.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/books.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/circle_time.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/garden.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_babybook_nook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_curious.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_curious2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_lunch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_outing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_rules.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox4.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox_shelter.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox_swing.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_sandbox_swing2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_swing.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_swing2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_thewall.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/jfy_thewall2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/sand_treasue.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/slide.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/sun.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/window_kids.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_dirt.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_fun.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_lumberjacks.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_mechanics.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_noise.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_pic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_seating.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_stumps.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_stumps2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/new_pics/yard_truck.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/images/staff_pics/leaanne-gallant-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/crystal-affleck-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/crystal-affleck.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/kathy-campbell-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/leaanne-gallant-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/leaanne-gallant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/lisa-maclaren-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/lisa-maclaren.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/marie-hennebery-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/marie-hennebery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/patti larkin-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/patti larkin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/wendy-miller-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/wendy-miller.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/kathy-campbell.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/jfy_pdf.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/justForYou/static/jfy_pdf.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/static/jfy_pdf.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static_files/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/static_files/jfy_pdf.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_files/jfy_pdf.pdf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/justforyou/static/jfy_pdf_old.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justforyou/static/jfy_pdf.pdf" afterPath="$PROJECT_DIR$/justforyou/static/jfy_pdf.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/home/views.py" afterPath="$PROJECT_DIR$/justForYou/home/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.js" afterPath="$PROJECT_DIR$/justForYou/static/fotorama-4.6.4/fotorama.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static/jquery-3.1.1.js" afterPath="$PROJECT_DIR$/justForYou/static/jquery-3.1.1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/example.html" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.css" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.js" afterPath="$PROJECT_DIR$/justForYou/static_files/fotorama-4.6.4/fotorama.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" afterPath="$PROJECT_DIR$/static/admin/fonts/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" afterPath="$PROJECT_DIR$/static/admin/img/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/README.txt" afterPath="$PROJECT_DIR$/static/admin/img/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/search.svg" afterPath="$PROJECT_DIR$/static/admin/img/search.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/change_form.js" afterPath="$PROJECT_DIR$/static/admin/js/change_form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/popup_response.js" afterPath="$PROJECT_DIR$/static/admin/js/popup_response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/js/grayscale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" afterPath="$PROJECT_DIR$/static/startbootstrap-grayscale-1.0.6/less/grayscale.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home/views.py" afterPath="$PROJECT_DIR$/home/views_old.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/patti larkin.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/patti larkin.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/EmilyWeeks-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/EmilyWeeks-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/EmilyWeeks.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/EmilyWeeks.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/crystal-affleck-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/crystal-affleck-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/crystal-affleck.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/crystal-affleck.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/kathy-campbell-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/kathy-campbell-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/kathy-campbell.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/kathy-campbell.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/leaanne-gallant-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/leaanne-gallant-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/leaanne-gallant.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/leaanne-gallant.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/lisa-maclaren-square.png" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/lisa-maclaren-square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/lisa-maclaren.png" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/lisa-maclaren.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/marie-hennebery-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/marie-hennebery-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/marie-hennebery.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/marie-hennebery.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/patti larkin-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/patti larkin-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/patti larkin.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/patti larkin.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/wendy-miller-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/wendy-miller-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images - Copy/staff pics/wendy-miller.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/staff pics_old/wendy-miller.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/EmilyWeeks-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/EmilyWeeks-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/EmilyWeeks.jpg" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/EmilyWeeks.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/crystal-affleck-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/crystal-affleck-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/crystal-affleck.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/crystal-affleck.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/kathy-campbell-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/kathy-campbell-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/kathy-campbell.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/kathy-campbell.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/leaanne-gallant-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/leaanne-gallant-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/leaanne-gallant.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/leaanne-gallant.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/lisa-maclaren-square.png" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/lisa-maclaren-square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/lisa-maclaren.png" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/lisa-maclaren.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/marie-hennebery-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/marie-hennebery-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/marie-hennebery.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/marie-hennebery.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/patti larkin-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/patti larkin-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/patti larkin.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/patti larkin.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/wendy-miller-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/wendy-miller-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/images/staff pics/wendy-miller.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics_old/wendy-miller.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/2_3_play_room.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/2_3_play_room.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/art.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/art.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/baby_room.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/baby_room.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/books.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/books.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/circle_time.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/circle_time.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/garden.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/garden.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_babybook_nook.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_babybook_nook.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_curious.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_curious.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_curious2.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_curious2.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_logo.png" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_lunch.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_lunch.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_outing.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_outing.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_rules.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_rules.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox2.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox2.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox3.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox3.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox4.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox4.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox_shelter.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox_shelter.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox_swing.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox_swing.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_sandbox_swing2.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_sandbox_swing2.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_swing.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_swing.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_swing2.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_swing2.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_thewall.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_thewall.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/jfy_thewall2.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/jfy_thewall2.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/sand_treasue.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/sand_treasue.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/slide.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/slide.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/sun.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/sun.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/window_kids.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/window_kids.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_dirt.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_dirt.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_fun.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_fun.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_lumberjacks.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_lumberjacks.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_mechanics.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_mechanics.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_noise.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_noise.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_pic.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_pic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_seating.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_seating.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_stumps.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_stumps.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_stumps2.jpg" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_stumps2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/new_pics/yard_truck.JPG" afterPath="$PROJECT_DIR$/justForYou/static/images/images/new_pics/yard_truck.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/leaanne-gallant-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/leaanne-gallant-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/EmilyWeeks-square.jpg" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/EmilyWeeks-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/crystal-affleck-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/crystal-affleck-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/crystal-affleck.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/crystal-affleck.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/kathy-campbell-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/kathy-campbell-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/kathy-campbell.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/kathy-campbell.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/leaanne-gallant.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/leaanne-gallant.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/lisa-maclaren-square.png" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/lisa-maclaren-square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/lisa-maclaren.png" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/lisa-maclaren.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/marie-hennebery-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/marie-hennebery-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/marie-hennebery.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/marie-hennebery.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/patti larkin-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/patti larkin-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/wendy-miller-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/wendy-miller-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/justForYou/static/images/staff_pics/staff_pics/wendy-miller.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/wendy-miller.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/EmilyWeeks-square.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/EmilyWeeks-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/EmilyWeeks.jpg" afterPath="$PROJECT_DIR$/static/images/images/staff pics_old/EmilyWeeks.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/images/staff pics/kathy-campbell.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/kathy-campbell.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/emily_weeks.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/EmilyWeeks.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/emily_weeks_square.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/EmilyWeeks-square.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/karen_fraser.jpg" afterPath="$PROJECT_DIR$/justForYou/static_files/images/staff_pics/new_staff_pics/karen_.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/kathy_campbell_daugter.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/kathy_campbell_daugter.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/lisa_maclaren.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/lisa_maclaren.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/new_staff_bios/emily_weeks_bio.docx" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/emily_weeks_bio.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/new_staff_bios/karen_bio.docx" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/karen_bio.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/new_staff_bios/lisa_bio.txt" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/lisa_bio.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/new_staff_bios/patti_bio.docx" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/new_staff_bios/patti_bio.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics/patti_larkin.jpg" afterPath="$PROJECT_DIR$/static/images/staff_pics/new_staff_pics_old/patti_larkin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/justForYou/static_files/jquery-3.1.1.js" afterPath="$PROJECT_DIR$/justForYou/static_files/jquery-3.1.1.js" />
     </list>
     <ignored path="justForYouVenv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -321,8 +42,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="291" column="0" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+            <state relative-caret-position="7275">
+              <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -341,8 +62,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="236">
+              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -395,8 +116,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="1909" />
+    <option name="y" value="-7" />
     <option name="width" value="1942" />
     <option name="height" value="1042" />
   </component>
@@ -415,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -441,74 +163,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYouVenv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou_local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYouVenv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou_local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYouVenv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou_local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static_files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYouVenv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou_local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="justForYou" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -525,18 +182,18 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\gitTest\justForYou_local\static_files" />
+      <recent name="E:\Python\gitTest\justForYou_local\justForYou\static" />
+      <recent name="E:\Python\gitTest\justForYou_local" />
+      <recent name="E:\Python\gitTest\justForYou_local\static" />
+      <recent name="E:\Python\gitTest\justForYou_local\justForYou\static_files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python\gitTest\justForYou_local\static_files\images\staff_pics" />
       <recent name="E:\Python\gitTest\justForYou_local\static\images\staff_pics" />
       <recent name="E:\Python\gitTest\justForYou_local\justForYou\static\images\images" />
       <recent name="E:\Python\gitTest\justForYou_local\static" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\gitTest\justForYou_local" />
-      <recent name="E:\Python\gitTest\justForYou_local\static_files" />
-      <recent name="E:\Python\gitTest\justForYou_local\static" />
-      <recent name="E:\Python\gitTest\justForYou_local\justForYou\static_files" />
-      <recent name="E:\Python\gitTest\justForYou_local\static_files\images\staff_pics\new_staff_pics" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.Unnamed">
@@ -795,10 +452,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="1909" y="-7" width="1942" height="1042" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27567568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28054053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -858,13 +515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="112" column="6" lean-forward="false" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -889,13 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="112" column="6" lean-forward="false" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -920,13 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="112" column="6" lean-forward="false" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -943,13 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="112" column="6" lean-forward="false" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -966,13 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="112" column="6" lean-forward="true" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -981,13 +608,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/justForYou/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -1018,13 +639,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2675">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/justForYou/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -1212,25 +827,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/views_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="61" column="17" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="65" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/home/views_old.py" />
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="291" column="0" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        <state relative-caret-position="7275">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state relative-caret-position="236">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
           <folding />
         </state>
       </provider>
