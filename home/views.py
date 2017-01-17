@@ -47,7 +47,7 @@ def home(request):
                   "enjoys creative and story time! When Crystal is not at work you will find her with her family doing"\
                   " something in the great outdoors!"
 
-    leaanne_bio = "Leanne has been employed here at Just For You, since 2011. She works with the children in the JR.K "\
+    leanne_bio = "Leanne has been employed here at Just For You, since 2011. She works with the children in the JR.K "\
                   "group.  She moved to Montague, PEI from Ontario with her husband Dave and their two" \
                   " boys Ben and Matthew.  Leanne is an Early Childhood Development Association Member and enjoys " \
                   "reading, travelling and spending time with family and friends."
@@ -73,7 +73,7 @@ def home(request):
              {'name': 'Emily Weeks', 'desc': emily_bio, 'img': 'new_staff_pics/emily_weeks_square.jpg', 'id': 4},
              {'name': 'Kathy Campbell', 'desc': kathy_bio, 'img': 'new_staff_pics/kathy_campbell_daugter.jpg', 'id': 5},
              {'name': 'Crystal Affleck', 'desc': crystal_bio, 'img': 'new_staff_pics/crystal-affleck.jpg', 'id': 6},
-             {'name': 'Leaanne Gallant', 'desc': leaanne_bio, 'img': 'new_staff_pics/leaanne_cropped.jpg', 'id': 7},
+             {'name': 'Leanne Gallant', 'desc': leanne_bio, 'img': 'new_staff_pics/leaanne_cropped.jpg', 'id': 7},
              {'name': 'Marie Hennbery', 'desc': marie_bio, 'img': 'marie-hennebery-square.jpg', 'id': 8},
              {'name': 'Wendy Miller', 'desc': wendy_bio, 'img': 'wendy-miller-square.jpg', 'id': 9},
             ]
