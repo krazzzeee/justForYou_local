@@ -27,10 +27,10 @@ SITE_ROOT = os.path.realpath(os.path.join(current, '..'))
 SECRET_KEY = 'hrc-k6m$g3ia6!(v2$#y@7auaijym2uylq6p87soc2f-8f^i81'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
-
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '104.200.28.112', 'justforyou.ca']
 
 # Application definition
 
@@ -92,14 +92,23 @@ if TEST_DB:
 else:
     DATABASES = {
         'default': {
-            'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-            'NAME': 'justforyou',                      # Or path to database file if using sqlite3.
-            'USER': 'root',                      # Not used with sqlite3.
-            'PASSWORD': 'AmeliaIs#1',                  # Not used with sqlite3.
-            'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
-            'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(SITE_ROOT, 'justforyou.db'),
+            'USER': '',                      # Not used with sqlite3.
+            'PASSWORD': '',                  # Not used with sqlite3.
         }
     }
+
+#     DATABASES = {
+#         'default': {
+#             'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
+#             'NAME': 'justforyou',                      # Or path to database file if using sqlite3.
+#             'USER': 'root',                      # Not used with sqlite3.
+#             'PASSWORD': 'AmeliaIs#1',                  # Not used with sqlite3.
+#             'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
+#             'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+#         }
+#     }
 
 
 # Password validation
