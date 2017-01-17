@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content_title %}
+    500 - System Error
+{% endblock content_title %}
+
+{% block content %}
+
+    <pre>
+    <p>This page is currently unavailable. Please contact your administrator for more information. </p>
+    {{ request }}
+    </pre>
+{% endblock %}
